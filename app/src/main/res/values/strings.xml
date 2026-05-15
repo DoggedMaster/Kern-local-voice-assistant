@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kern</string>
+    <string name="mic_permission_rationale">Die App braucht Mikrofonzugriff fuer die Sprachsteuerung.</string>
+</resources>

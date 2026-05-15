@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sound wave: 3 concentric arcs opening leftward (voice input) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M 42,48 C 36,48 36,60 42,60"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 42,43 C 28,43 28,65 42,65"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M 42,38 C 22,38 22,70 42,70"/>
+
+    <!-- Brain outline (top-down, two hemispheres) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#A8C4E0"
+        android:strokeWidth="2.8"
+        android:pathData="M 60,32 C 68,30 78,34 78,46 C 78,56 76,66 70,72 C 66,76 62,78 60,76 C 58,78 54,76 50,72 C 44,66 42,56 42,46 C 42,34 52,30 60,32 Z"/>
+
+    <!-- Interhemispheric groove (center vertical line) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#A8C4E0"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 60,34 C 58,46 58,62 60,74"/>
+
+    <!-- Brain surface folds (subtle) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4A6882"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M 50,36 C 54,30 66,30 70,36"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4A6882"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M 44,52 C 48,46 52,48 52,54"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4A6882"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M 76,52 C 72,46 68,48 68,54"/>
+
+    <!-- Constellation lines (inside right lobe) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="1.2"
+        android:pathData="M 57,40 L 69,46 L 67,62 L 52,66 L 57,40"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="1"
+        android:pathData="M 57,40 L 67,62"/>
+
+    <!-- Constellation star dots -->
+    <path android:fillColor="#FBBF24"
+        android:pathData="M 57,40 m -2.5,0 a 2.5,2.5,0,1,0,5,0 a 2.5,2.5,0,1,0,-5,0"/>
+    <path android:fillColor="#FBBF24"
+        android:pathData="M 69,46 m -2.5,0 a 2.5,2.5,0,1,0,5,0 a 2.5,2.5,0,1,0,-5,0"/>
+    <path android:fillColor="#FBBF24"
+        android:pathData="M 67,62 m -2.5,0 a 2.5,2.5,0,1,0,5,0 a 2.5,2.5,0,1,0,-5,0"/>
+    <path android:fillColor="#FBBF24"
+        android:pathData="M 52,66 m -2.5,0 a 2.5,2.5,0,1,0,5,0 a 2.5,2.5,0,1,0,-5,0"/>
+
+</vector>

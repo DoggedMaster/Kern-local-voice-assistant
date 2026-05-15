@@ -1,0 +1,27 @@
+# Android / Gradle
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystores
+*.jks
+*.keystore
+
+# Native / models (zu gross fuers Repo)
+app/src/main/assets/models/
+*.task
+*.onnx
+*.gguf
+*.bin
+
+# Lokale AAR-Bibliotheken (manuell herunterladen, siehe README)
+app/libs/*.aar
+
+# macOS
+.DS_Store
