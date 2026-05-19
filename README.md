@@ -1,4 +1,5 @@
 # Kern – Lokaler Sprachassistent für Android
+# Kern - Local LLM Voice Assistant for Android
 
 [Deutsch](#deutsch) · [English](#english)
 
